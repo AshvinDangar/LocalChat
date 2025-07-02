@@ -1,0 +1,14 @@
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\bin\Debug\net8.0\ClientWS.exe
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\bin\Debug\net8.0\ClientWS.deps.json
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\bin\Debug\net8.0\ClientWS.runtimeconfig.json
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\bin\Debug\net8.0\ClientWS.dll
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\bin\Debug\net8.0\ClientWS.pdb
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.AssemblyInfoInputs.cache
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.AssemblyInfo.cs
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.csproj.CoreCompileInputs.cache
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.dll
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\refint\ClientWS.dll
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.pdb
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ClientWS.genruntimeconfig.cache
+C:\Users\ashvin.dangar\Desktop\SelfAPI\ClientWS\obj\Debug\net8.0\ref\ClientWS.dll
